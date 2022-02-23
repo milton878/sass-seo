@@ -1,0 +1,17 @@
+seo:
+index Inicio en title: agerege Inicion-rancho argentino
+descrption: Restautantes, carnes asadas, pescasdos,pastas.
+
+en la pagina de cartas: title: seccion-cartas rancho argentino. en la 
+description le agrege. imagenes de los mejores platos que encontras en villa constitucion
+
+index.Historia al title le agrege Historia-Rancho Argentino
+en la description Historia del Rancho Argentino sus comienzos.
+
+index.RRHH 
+al title le agrege Seccion RRHH Rancho Argentino 
+en la descrition Trabaja en un restorante villa constitucion turno noche
+
+index.ubicacion:
+title: Ubicacion-Rancho Argentino
+en la descripcion agrege. Donde encontrar el mejor lugar para comer asado, pescados o pastas.
